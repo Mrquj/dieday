@@ -18,6 +18,3 @@ timeout: 3000,
 init: true
 });
 </script>
-
-<link rel="stylesheet" href="http://dieday.cn/disqus-php-api-master/dist/iDisqus.min.css" />
-<script src="http://dieday.cn/disqus-php-api-master/dist/iDisqus.min.js"></script>
