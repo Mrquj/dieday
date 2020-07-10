@@ -49,18 +49,20 @@ href="https://fonts.lug.ustc.edu.cn/css?family=Inconsolata:400,700">
 
 	
 	
-<div id="comment"></div>
+<div id="comment">
 <script>
 var disq = new iDisqus('comment', {
-forum: 'diedayblog-1',
-api: 'http://dieday.cn/disqus-php-api-master/api',
-site: 'http://dieday.cn',
-mode: 1,
-timeout: 3000,
-init: true
+    forum: 'diedayblog-1',
+    api: 'http://dieday.cn/disqus-php-api-master/api',
+    site: 'http://dieday.cn',
+    mode: 3,
+    timeout: 3000,
+    init: true,
+    toggle: "comment-toggle"
 });
-</script>
-	
+disq.count();
+</script>	
+</div>		
 	
 
 <div id="comments">
@@ -81,10 +83,6 @@ init: true
 <a href="https://bitcron.com" target="_blank">Bitcron</a>
 .
 
-      </footer>
-
-  
-	
-		
+      </footer>	
 </body>	
 </html>
