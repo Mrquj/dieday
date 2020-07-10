@@ -7,3 +7,17 @@ layout: about
 我爱你们。
 
 [Email](mailto:zeroneven@gmail.com) / [Twitter](https://twitter.com/zeove) / [Instagram](https://www.instagram.com/zeove/) / [Rss](https://zeove.com/feed)
+<div id="comment"></div>
+<script>
+var disq = new iDisqus('comment', {
+forum: 'diedayblog-1',
+api: 'http://dieday.cn/disqus-php-api-master/api',
+site: 'http://dieday.cn',
+mode: 1,
+timeout: 3000,
+init: true
+});
+</script>
+
+<link rel="stylesheet" href="http://dieday.cn/disqus-php-api-master/dist/iDisqus.min.css" />
+<script src="http://dieday.cn/disqus-php-api-master/dist/iDisqus.min.js"></script>
