@@ -1,0 +1,30 @@
+# Blog settings
+permalink: /blog/:title
+
+
+# My variables
+name: Dieday'blog
+description: 偶尔写写博客，吐槽下生活，分享点自己觉得有意思的东西。
+url: http://dieday.cn
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+
+theme: jekyll-theme-cayman
