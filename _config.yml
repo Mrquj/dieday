@@ -3,9 +3,9 @@ permalink: /blog/:title
 
 
 # My variables
-name: Zeove'blog
+name: Dieday'blog
 description: 偶尔写写博客，吐槽下生活，分享点自己觉得有意思的东西。
-url: https://zeove.com
+url: http://dieday.com
 google_verification: null
 
 
@@ -26,3 +26,9 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
+
+# diequs
+   comments :
+    provider : disqus
+    disqus :uuavv@qq.com
+      short_name : diedayblog-1
