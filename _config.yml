@@ -26,9 +26,3 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
-
-# diequs
-   comments :
-    provider : disqus
-    disqus :uuavv@qq.com
-      short_name : diedayblog-1
