@@ -17,9 +17,7 @@ layout: default
     </div>
     <div class="post__content"?>
         {{ content }}
-    </div>
-	{% if %}
-	<div id="comment"></div>
+	    	<div id="comment"></div>
     <link rel="stylesheet" href="http://dieday.cn/disqus-php-api-master/dist/iDisqus.min.css" />
     <script src="http://dieday.cn/disqus-php-api-master/dist/iDisqus.min.js"></script>
  
@@ -35,6 +33,6 @@ var disq = new iDisqus('comment', {
 });
 disq.count();
 </script>
-{% endif %}
-	
+
+    </div>	
 </div>
