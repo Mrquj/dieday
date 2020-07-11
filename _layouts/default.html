@@ -42,5 +42,24 @@ href="https://fonts.lug.ustc.edu.cn/css?family=Inconsolata:400,700">
 
 	
 </body>
-
+	
+	{% if %}
+	<div id="comment"></div>
+    <link rel="stylesheet" href="http://dieday.cn/disqus-php-api-master/dist/iDisqus.min.css" />
+    <script src="http://dieday.cn/disqus-php-api-master/dist/iDisqus.min.js"></script>
+ 
+<script>
+var disq = new iDisqus('comment', {
+    forum: 'diedayblog-1',
+    api: 'http://dieday.cn/disqus-php-api-master/api',
+    site: 'http://dieday.cn',
+    mode: 3,
+    timeout: 3000,
+    init: true,
+    toggle: "comment-toggle"
+});
+disq.count();
+</script>
+{% endif %}
+	
 </html>
