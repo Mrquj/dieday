@@ -4,7 +4,17 @@ layout: list云
 
 [时光序](https://web.shiguangxu.com/home/matter/schedule) - 微信日程提醒
 
+[微信读书](https://weread.qq.com/) - 日常读书平台
+
+[Bilibili](http://www.bilibili.com/) - 业余网课、视频
+
 [坚果云](https://www.jianguoyun.com/#/) - 云存儲、思維導圖
+
+[Wikipedia](https://zh.wikipedia.org/zh-hans/Wikipedia:%E9%A6%96%E9%A1%B5) - 维基百科
+
+[ProcessOn](https://www.processon.com/i/5b04dd10e4b05615d256db5a) - 在线制作思维导图!
+
+[Minghuaji](http://minghuaji.dpm.org.cn/) - 故宫名画记
 
 [Honeygain](https://r.honeygain.money/ZERON57A92) - 分享带宽网赚
 
@@ -13,8 +23,6 @@ layout: list云
 [Evernote](https://app.yinxiang.com/referral/Registration.action?sig=da1dc01abe7818d525f29be043d40da2fb316c9cd36d66a28e81f430b51ce246&uid=13096715) - 强大的知识管理应用
 
 [Dropbox](https://db.tt/h5ZzHAqI) - 云存储及同步
-
-[Wikipedia](https://zh.wikipedia.org/zh-hans/Wikipedia:%E9%A6%96%E9%A1%B5) - 维基百科
 
 [Waze](https://www.waze.com/zh) - 地图编辑及导航
 
@@ -40,8 +48,6 @@ layout: list云
 
 [Unlimited](https://www.amazon.cn/gp/kindle/ku/sign-up/ref=as_li_ss_tl?ie=UTF8&*Version*=1&*entries*=0&camp=536&creative=3132&linkCode=ur2&tag=zeove-23) - Kindle包月服务
 
-[Bilibili](http://www.bilibili.com/) - 电影与视频
-
 [TinyPNG](https://tinypng.com/) - 图片压缩
 
 [Gtmetrix](https://gtmetrix.com/) - 网站测速
@@ -56,8 +62,6 @@ layout: list云
 
 [MultCloud](https://www.multcloud.com/sign?method=up&tc=51feffd6604f761701605278c6a40374) - 云存储转移管理平台
 
-[Minghuaji](http://minghuaji.dpm.org.cn/) - 故宫名画记
-
 [Webtorrent](https://webtorrent.io/) - BT在线播放
 
 [Snipaste](https://www.snipaste.com/) - 截图神器
@@ -65,8 +69,6 @@ layout: list云
 [Clipconverter](http://www.clipconverter.cc/) - Youtube视频下载
 
 [Sketchfab](https://sketchfab.com/britishmuseum) - 3D打印素材库
-
-[ProcessOn](https://www.processon.com/i/5b04dd10e4b05615d256db5a) - 在线制作思维导图!
 
 [Protonmail](https://protonmail.com/zh-Hans/) - 来自瑞士的加密邮箱服务
 
