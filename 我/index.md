@@ -6,4 +6,4 @@ layout: about
 
 我爱你们。
 
-[Email](mailto:zeroneven@gmail.com) / [Twitter](https://twitter.com/zeove) / [Instagram](https://www.instagram.com/zeove/) / [Rss](https://zeove.com/feed)
+[Email](mailto:uuavvo@gmail.com) / [Twitter](https://twitter.com/uuavv) / [Instagram](https://www.instagram.com/uuavv/) / [Rss](https://dieday.cn/feed)
