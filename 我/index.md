@@ -6,4 +6,4 @@ layout: about
 
 我爱你们。
 
-[Email](mailto:uuavvo@gmail.com) / [Twitter](https://twitter.com/uuavv) / [Instagram](https://www.instagram.com/uuavv/) / [Rss](https://dieday.cn/feed)
+[Email](mailto:j@dieday.cn) / [Twitter](https://twitter.com/uuavv) / [Instagram](https://www.instagram.com/uuavv/) / [Rss](https://dieday.cn/feed)
